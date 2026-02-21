@@ -1,7 +1,7 @@
 import { Metadata } from "next";
 import { notFound } from "next/navigation";
 import Link from "next/link";
-import { StaticMap } from "@/components/StaticMap";
+import { InteractiveMap } from "@/components/InteractiveMap";
 import { ShopFilters } from "@/components/ShopFilters";
 import { ScoutCTA } from "@/components/ScoutCTA";
 import { getRegionForCity } from "@/data/regions";
@@ -56,6 +56,9 @@ export default async function CityPage({ params }: Props) {
   const mapPins = shops.map((s) => ({
     lat: s.lat,
     lng: s.lng,
+    name: s.name,
+    slug: s.slug,
+    score: s.score,
   }));
 
   return (
@@ -87,7 +90,7 @@ export default async function CityPage({ params }: Props) {
       {/* Map */}
       {mapPins.length > 0 && (
         <div className="animate-fade-up delay-1 mb-8">
-          <StaticMap
+          <InteractiveMap
             pins={mapPins}
             centerLat={city.lat}
             centerLng={city.lng}
