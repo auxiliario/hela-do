@@ -4,20 +4,36 @@ import { ScoutCTA } from "@/components/ScoutCTA";
 import { WA_LINKS } from "@/lib/utils";
 import citiesData from "@/data/cities.json";
 import shopsData from "@/data/shops.json";
+import { regions } from "@/data/regions";
 
 export default function HomePage() {
   const totalShops = shopsData.length;
   const totalCities = citiesData.length;
 
-  // Top 20 cities for the main grid, rest in "more"
-  const mainCities = citiesData.slice(0, 20);
-  const moreCities = citiesData.slice(20);
+  // Build a lookup: city slug → city data
+  const cityMap = new Map(citiesData.map((c) => [c.slug, c]));
+
+  // Group cities by region
+  const groupedRegions = regions
+    .map((region) => {
+      const citiesInRegion = region.cities
+        .map((slug) => cityMap.get(slug))
+        .filter(Boolean)
+        .sort((a, b) => (b?.shop_count || 0) - (a?.shop_count || 0));
+      return { ...region, citiesData: citiesInRegion };
+    })
+    .filter((r) => r.citiesData.length > 0);
+
+  // Find orphan cities not in any region
+  const assignedSlugs = new Set(regions.flatMap((r) => r.cities));
+  const orphanCities = citiesData
+    .filter((c) => !assignedSlugs.has(c.slug))
+    .sort((a, b) => b.shop_count - a.shop_count);
 
   return (
     <>
       {/* Hero */}
       <section className="relative overflow-hidden pt-12 pb-16 md:pt-20 md:pb-24">
-        {/* Background blobs */}
         <div className="absolute inset-0 overflow-hidden pointer-events-none">
           <div className="absolute -top-20 -left-20 w-80 h-80 bg-hela-pink/10 rounded-full blur-3xl" />
           <div className="absolute top-40 -right-20 w-96 h-96 bg-hela-peach/10 rounded-full blur-3xl" />
@@ -89,47 +105,71 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* City Grid */}
+      {/* City Grid — Grouped by Region */}
       <section id="ciudades" className="max-w-7xl mx-auto px-4 sm:px-6 pb-16">
-        <div className="mb-8">
+        <div className="mb-10">
           <h2 className="font-display font-bold text-2xl md:text-3xl text-hela-dark">
-            Explora por ciudad
+            Explora por región
           </h2>
           <p className="text-hela-dark/50 mt-1">
-            Toca una ciudad para ver todas sus heladerías
+            {totalCities} ciudades organizadas por región
           </p>
         </div>
 
-        <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-4">
-          {mainCities.map((city, i) => (
-            <CityCard
-              key={city.slug}
-              name={city.name}
-              slug={city.slug}
-              shopCount={city.shop_count}
-              index={i}
-            />
-          ))}
-        </div>
-
-        {moreCities.length > 0 && (
-          <details className="mt-6">
-            <summary className="cursor-pointer text-sm text-hela-pink font-medium hover:underline">
-              Ver {moreCities.length} ciudades más →
-            </summary>
-            <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-4 mt-4">
-              {moreCities.map((city, i) => (
-                <CityCard
-                  key={city.slug}
-                  name={city.name}
-                  slug={city.slug}
-                  shopCount={city.shop_count}
-                  index={i}
-                />
-              ))}
+        <div className="space-y-12">
+          {groupedRegions.map((region) => (
+            <div key={region.slug}>
+              <div className="flex items-center gap-2 mb-4">
+                <span className="text-2xl">{region.emoji}</span>
+                <h3 className="font-display font-bold text-lg text-hela-dark">
+                  {region.name}
+                </h3>
+                <span className="text-xs text-hela-dark/40 bg-hela-dark/5 rounded-full px-2 py-0.5">
+                  {region.citiesData.reduce((sum, c) => sum + (c?.shop_count || 0), 0)} heladerías
+                </span>
+              </div>
+              <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-4">
+                {region.citiesData.map((city, i) =>
+                  city ? (
+                    <CityCard
+                      key={city.slug}
+                      name={city.name}
+                      slug={city.slug}
+                      shopCount={city.shop_count}
+                      index={i}
+                    />
+                  ) : null
+                )}
+              </div>
             </div>
-          </details>
-        )}
+          ))}
+
+          {/* Orphan cities */}
+          {orphanCities.length > 0 && (
+            <div>
+              <div className="flex items-center gap-2 mb-4">
+                <span className="text-2xl">📍</span>
+                <h3 className="font-display font-bold text-lg text-hela-dark">
+                  Otras ciudades
+                </h3>
+                <span className="text-xs text-hela-dark/40 bg-hela-dark/5 rounded-full px-2 py-0.5">
+                  {orphanCities.reduce((sum, c) => sum + c.shop_count, 0)} heladerías
+                </span>
+              </div>
+              <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-4">
+                {orphanCities.map((city, i) => (
+                  <CityCard
+                    key={city.slug}
+                    name={city.name}
+                    slug={city.slug}
+                    shopCount={city.shop_count}
+                    index={i}
+                  />
+                ))}
+              </div>
+            </div>
+          )}
+        </div>
       </section>
 
       {/* Passport Teaser */}

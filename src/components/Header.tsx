@@ -1,16 +1,19 @@
 "use client";
 
 import Link from "next/link";
+import { usePathname } from "next/navigation";
 import { useState } from "react";
 import { WA_LINKS } from "@/lib/utils";
 
 export function Header() {
   const [menuOpen, setMenuOpen] = useState(false);
+  const pathname = usePathname();
+
+  const ciudadesHref = pathname === "/" ? "#ciudades" : "/#ciudades";
 
   return (
     <header className="sticky top-0 z-50 backdrop-blur-xl bg-hela-cream/80 border-b border-hela-dark/5">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 h-16 flex items-center justify-between">
-        {/* Logo */}
         <Link href="/" className="flex items-center gap-2 group">
           <span className="text-2xl">🍦</span>
           <span className="font-display font-bold text-xl text-hela-dark tracking-tight">
@@ -18,14 +21,13 @@ export function Header() {
           </span>
         </Link>
 
-        {/* Desktop Nav */}
         <nav className="hidden md:flex items-center gap-8">
-          <Link
-            href="/"
+          <a
+            href={ciudadesHref}
             className="font-body text-sm text-hela-dark/70 hover:text-hela-pink transition-colors"
           >
             Ciudades
-          </Link>
+          </a>
           <Link
             href="/que-es-helado"
             className="font-body text-sm text-hela-dark/70 hover:text-hela-pink transition-colors"
@@ -46,7 +48,6 @@ export function Header() {
           </a>
         </nav>
 
-        {/* Mobile hamburger */}
         <button
           onClick={() => setMenuOpen(!menuOpen)}
           className="md:hidden p-2 text-hela-dark"
@@ -62,16 +63,15 @@ export function Header() {
         </button>
       </div>
 
-      {/* Mobile menu */}
       {menuOpen && (
         <div className="md:hidden bg-hela-cream border-t border-hela-dark/5 px-4 py-4 space-y-3 animate-fade-up">
-          <Link
-            href="/"
+          <a
+            href={ciudadesHref}
             onClick={() => setMenuOpen(false)}
             className="block font-body text-hela-dark/70 py-2"
           >
             🗺️ Ciudades
-          </Link>
+          </a>
           <Link
             href="/que-es-helado"
             onClick={() => setMenuOpen(false)}
