@@ -1,8 +1,10 @@
 import { Metadata } from "next";
 import { notFound } from "next/navigation";
 import Link from "next/link";
-import { ShopCard } from "@/components/ShopCard";
+import { StaticMap } from "@/components/StaticMap";
+import { ShopFilters } from "@/components/ShopFilters";
 import { ScoutCTA } from "@/components/ScoutCTA";
+import { getRegionForCity } from "@/data/regions";
 import citiesData from "@/data/cities.json";
 import shopsData from "@/data/shops.json";
 
@@ -48,8 +50,13 @@ export default async function CityPage({ params }: Props) {
     .filter((s) => slugify(s.city) === slug)
     .sort((a, b) => (b.reviews || 0) - (a.reviews || 0));
 
-  // Unique tags for this city
   const allTags = [...new Set(shops.flatMap((s) => s.tags))];
+  const regionName = getRegionForCity(slug);
+
+  const mapPins = shops.map((s) => ({
+    lat: s.lat,
+    lng: s.lng,
+  }));
 
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 py-8 md:py-12">
@@ -58,6 +65,8 @@ export default async function CityPage({ params }: Props) {
         <Link href="/" className="hover:text-hela-pink transition-colors">
           hela.do
         </Link>
+        <span className="mx-2">→</span>
+        <span className="text-hela-dark/50">{regionName}</span>
         <span className="mx-2">→</span>
         <span className="text-hela-dark/70">{city.name}</span>
       </nav>
@@ -71,39 +80,24 @@ export default async function CityPage({ params }: Props) {
           </span>
         </h1>
         <p className="text-hela-dark/50 mt-2 text-lg">
-          {shops.length} {shops.length === 1 ? "heladería" : "heladerías"} encontradas
+          {shops.length} {shops.length === 1 ? "heladería" : "heladerías"} · {regionName}
         </p>
       </div>
 
-      {/* Filter tags */}
-      <div className="animate-fade-up delay-1 flex flex-wrap gap-2 mb-8">
-        {allTags.map((tag) => (
-          <span
-            key={tag}
-            className="tag-pill bg-white border border-hela-dark/10 text-hela-dark/60 cursor-default"
-          >
-            {tag}
-          </span>
-        ))}
-      </div>
-
-      {/* Shops grid */}
-      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
-        {shops.map((shop) => (
-          <ShopCard
-            key={shop.slug}
-            name={shop.name}
-            slug={shop.slug}
-            city={shop.city}
-            score={shop.score}
-            reviews={shop.reviews}
-            priceTier={shop.price_tier}
-            address={shop.address}
-            tags={shop.tags}
-            tier={shop.tier}
+      {/* Map */}
+      {mapPins.length > 0 && (
+        <div className="animate-fade-up delay-1 mb-8">
+          <StaticMap
+            pins={mapPins}
+            centerLat={city.lat}
+            centerLng={city.lng}
+            zoom={shops.length > 5 ? 12 : 14}
           />
-        ))}
-      </div>
+        </div>
+      )}
+
+      {/* Filterable shop list */}
+      <ShopFilters shops={shops} allTags={allTags} />
 
       {/* Scout CTA */}
       <div className="mt-12 max-w-lg mx-auto">

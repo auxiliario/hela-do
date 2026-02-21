@@ -43,9 +43,9 @@ git push -u origin main
 4. In **Environment Variables**, add these:
    - `NEXT_PUBLIC_SUPABASE_URL` = `https://zwvvxgdanobgtecnapqg.supabase.co`
    - `NEXT_PUBLIC_SUPABASE_ANON_KEY` = `sb_publishable_124RrnaEcs9XQwQlqm3HOg_oB8XnAoT`
-   - `NEXT_PUBLIC_MAPBOX_TOKEN` = `your_mapbox_token_here`
    - `NEXT_PUBLIC_CLOUDINARY_CLOUD` = `dfqvm5mqh`
    - `NEXT_PUBLIC_WHATSAPP_NUMBER` = your hela.do WhatsApp number
+   
 5. Click **Deploy**
 
 ### Step 6: Connect your domain (later)
