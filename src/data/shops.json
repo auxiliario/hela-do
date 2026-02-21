@@ -4205,26 +4205,6 @@
     "place_id": "ChIJY5XlC-CHr44REkIQ3HKrKk8"
   },
   {
-    "name": "Cafeteria El Shaddai",
-    "slug": "cafeteria-el-shaddai",
-    "city": "Santo Domingo",
-    "address": "RD-47 Carretera Elías Piña - Sabana Cruz, Santo Domingo 73106",
-    "lat": 19.0483066,
-    "lng": -71.7267308,
-    "phone": "+18493425407",
-    "website": null,
-    "hours": "sábado: 8:30–10 a.m.",
-    "score": 5.0,
-    "reviews": 0,
-    "price_tier": "$$",
-    "tier": "🔵 DECENT",
-    "tags": [
-      "independiente"
-    ],
-    "has_ig": false,
-    "place_id": "ChIJpb3pBwLHsI4RsCoIriMpJSM"
-  },
-  {
     "name": "La Heladería y algo más (Las Cabuyas, La Vega)",
     "slug": "la-heladeria-y-algo-mas-las-cabuyas-la-vega",
     "city": "La Vega",
