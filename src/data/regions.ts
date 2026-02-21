@@ -2,7 +2,7 @@ export interface Region {
   name: string;
   slug: string;
   emoji: string;
-  cities: string[]; // city slugs
+  cities: string[];
 }
 
 export const regions: Region[] = [
@@ -11,8 +11,11 @@ export const regions: Region[] = [
     slug: "distrito-nacional",
     emoji: "🏛️",
     cities: [
-      "santo-domingo",
+      "santo-domingo-dn",
+      "zona-colonial",
       "santo-domingo-este",
+      "santo-domingo-norte",
+      "santo-domingo-oeste",
       "pantoja",
       "hato-nuevo",
       "la-caleta",
@@ -71,11 +74,10 @@ export const regions: Region[] = [
     slug: "cibao-noroeste",
     emoji: "🌵",
     cities: [
-      "mao",
+      "valverde-mao",
       "monte-cristi",
       "moncion",
       "jicome-de-moncion",
-      "santa-cruz-de-mao",
       "las-matas-de-santa-cruz",
       "buen-hombre",
       "villa-sinda",
@@ -89,8 +91,12 @@ export const regions: Region[] = [
       "la-romana",
       "higuey",
       "bayahibe",
+      "bavaro",
+      "punta-cana",
+      "cap-cana",
       "san-pedro-de-macoris",
       "boca-chica",
+      "juan-dolio",
       "hato-mayor-del-rey",
       "guaymate",
       "miches",
@@ -140,7 +146,7 @@ export const regions: Region[] = [
       "san-juan-de-la-maguana",
       "el-caimito",
       "san-jose-de-las-matas",
-      "jabon-de-pueblo-nuevo",
+      "jaibon-de-pueblo-nuevo",
       "juan-lopez",
       "rio-verde-arriba",
       "la-torre",
@@ -151,7 +157,6 @@ export const regions: Region[] = [
   },
 ];
 
-// Flat lookup: city slug → region name
 export function getRegionForCity(citySlug: string): string {
   for (const region of regions) {
     if (region.cities.includes(citySlug)) return region.name;

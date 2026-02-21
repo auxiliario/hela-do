@@ -2,7 +2,7 @@
   {
     "name": "Cappuccino",
     "slug": "cappuccino",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo DN",
     "address": "Av. Máximo Gómez, Santo Domingo 10106",
     "lat": 18.470351,
     "lng": -69.9121696,
@@ -22,7 +22,7 @@
   {
     "name": "Paletas Bajo Cero",
     "slug": "paletas-bajo-cero-santo-domingo",
-    "city": "Santo Domingo",
+    "city": "Zona Colonial",
     "address": "C. Isabel La Católica, Santo Domingo 10210",
     "lat": 18.4749578,
     "lng": -69.8837459,
@@ -43,7 +43,7 @@
   {
     "name": "Helados Baskin-Robbins Lincoln",
     "slug": "helados-baskin-robbins-lincoln",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo DN",
     "address": "Av. Abraham Lincoln esq, Santo Domingo",
     "lat": 18.4721635,
     "lng": -69.93355249999999,
@@ -63,7 +63,7 @@
   {
     "name": "Helados Bon",
     "slug": "helados-bon-santo-domingo",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo DN",
     "address": "Av. Rómulo Betancourt 100, Santo Domingo 10114",
     "lat": 18.451507799999998,
     "lng": -69.9529618,
@@ -83,7 +83,7 @@
   {
     "name": "Helados Bon",
     "slug": "helados-bon-santo-domingo-2",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo Oeste",
     "address": "Av. Independencia, Santo Domingo",
     "lat": 18.431058399999998,
     "lng": -69.9702712,
@@ -103,7 +103,7 @@
   {
     "name": "Helados Bon",
     "slug": "helados-bon-santo-domingo-2",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo DN",
     "address": "Av Enriquillo 64, Santo Domingo",
     "lat": 18.4429017,
     "lng": -69.9699107,
@@ -143,7 +143,7 @@
   {
     "name": "Heladeria Valentino",
     "slug": "heladeria-valentino",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo DN",
     "address": "F3C5+XX7, Plaza Cataluña, C. Freddy Prestol Castillo, Santo Domingo",
     "lat": 18.472421999999998,
     "lng": -69.940085,
@@ -183,7 +183,7 @@
   {
     "name": "Helados Bon",
     "slug": "helados-bon",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo Oeste",
     "address": "Prol. Av. 27 de Febrero 72, Santo Domingo",
     "lat": 18.4690394,
     "lng": -69.9949587,
@@ -203,7 +203,7 @@
   {
     "name": "Heladería Valentino Nacional Tiradentes",
     "slug": "heladeria-valentino-nacional-tiradentes",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo DN",
     "address": "C. Octavio del Pozo, Santo Domingo",
     "lat": 18.4721843,
     "lng": -69.925303,
@@ -223,7 +223,7 @@
   {
     "name": "Helados Bon",
     "slug": "helados-bon-santo-domingo-2",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo DN",
     "address": "F3QR+CVM, C. Moca, Santo Domingo 10413",
     "lat": 18.488594799999998,
     "lng": -69.9078365,
@@ -243,7 +243,7 @@
   {
     "name": "Antojao’",
     "slug": "antojao",
-    "city": "Santo Domingo",
+    "city": "Zona Colonial",
     "address": "Calle Las Mercedes, Esquina Arzobispo Meriño. Plaza Merceriño, Santo Domingo 10210",
     "lat": 18.4757237,
     "lng": -69.8849846,
@@ -263,7 +263,7 @@
   {
     "name": "Häagen-Dazs",
     "slug": "haagen-dazs",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo DN",
     "address": "C. Federico Geraldino 21, Santo Domingo 10109",
     "lat": 18.4684301,
     "lng": -69.9342065,
@@ -283,7 +283,7 @@
   {
     "name": "Paletas Bajo Cero",
     "slug": "paletas-bajo-cero-santo-domingo-2",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo DN",
     "address": "Av. Winston Churchill &, Santo Domingo",
     "lat": 18.4723646,
     "lng": -69.9420844,
@@ -304,7 +304,7 @@
   {
     "name": "Helados Bon • Rosa Duarte",
     "slug": "helados-bon-rosa-duarte",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo DN",
     "address": "Helados Bon Rosa Duarte, C. Rosa Duarte 33, Santo Domingo 10205",
     "lat": 18.47353,
     "lng": -69.9019989,
@@ -324,7 +324,7 @@
   {
     "name": "Cappio Helados",
     "slug": "cappio-helados",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo DN",
     "address": "Av. Winston Churchill 1556, Santo Domingo",
     "lat": 18.4779186,
     "lng": -69.9450263,
@@ -344,7 +344,7 @@
   {
     "name": "Babà & Co Il Gelato-Gelateria Artigianale, café italiano, heladeria artisanal",
     "slug": "baba-co-il-gelato-gelateria-artigianale-cafe-italiano-heladeria-artisanal",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo DN",
     "address": "C. Agustín Lara 26, Santo Domingo",
     "lat": 18.47536,
     "lng": -69.9335226,
@@ -365,7 +365,7 @@
   {
     "name": "Tartufo",
     "slug": "tartufo",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo DN",
     "address": "Bella Vista Mall, 1er Nivel, C. Helios, Santo Domingo",
     "lat": 18.453169799999998,
     "lng": -69.94138989999999,
@@ -385,7 +385,7 @@
   {
     "name": "Helados Bon",
     "slug": "helados-bon-santo-domingo-2",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo Este",
     "address": "F5X3+WW6, Carr. de Mendoza, Santo Domingo",
     "lat": 18.4997823,
     "lng": -69.8452461,
@@ -405,7 +405,7 @@
   {
     "name": "Häagen-Dazs",
     "slug": "haagen-dazs-santo-domingo",
-    "city": "Santo Domingo",
+    "city": "Zona Colonial",
     "address": "10212, C. Arzobispo Meriño 204, Santo Domingo 10210",
     "lat": 18.474448199999998,
     "lng": -69.884693,
@@ -425,7 +425,7 @@
   {
     "name": "Snow Ice Cream Roll",
     "slug": "snow-ice-cream-roll",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo DN",
     "address": "Av. 27 de Febrero, Plaza Dominica Local IA-3, 10142",
     "lat": 18.455713,
     "lng": -69.95356699999999,
@@ -446,7 +446,7 @@
   {
     "name": "Helados Bon",
     "slug": "helados-bon-santo-domingo-2",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo Este",
     "address": "Av. España 29, Santo Domingo Este",
     "lat": 18.4689279,
     "lng": -69.8485113,
@@ -466,7 +466,7 @@
   {
     "name": "Paletas Bajo Cero",
     "slug": "paletas-bajo-cero",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo DN",
     "address": "F22X+428, Av. Rómulo Betancourt, Santo Domingo 10114",
     "lat": 18.450282299999998,
     "lng": -69.95241279999999,
@@ -487,7 +487,7 @@
   {
     "name": "Helados Bon Bella Vista Mall",
     "slug": "helados-bon-bella-vista-mall",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo DN",
     "address": "F335+873, Av. Sarasota, Santo Domingo",
     "lat": 18.4532684,
     "lng": -69.9418251,
@@ -507,7 +507,7 @@
   {
     "name": "Distribuidora Principal Helados Holis Santo Domingo",
     "slug": "distribuidora-principal-helados-holis-santo-domingo",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo Oeste",
     "address": "Bomba Total, Plaza Shantell, Av. Los Beisbolistas esq, Santo Domingo 10902",
     "lat": 18.483563,
     "lng": -69.9807665,
@@ -527,7 +527,7 @@
   {
     "name": "Helados Valentino Paseo de los Locutores",
     "slug": "helados-valentino-paseo-de-los-locutores",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo DN",
     "address": "C. P.º de los Locutores 49, Santo Domingo",
     "lat": 18.4644515,
     "lng": -69.9392447,
@@ -567,7 +567,7 @@
   {
     "name": "Helados Uvis Santo Domingo",
     "slug": "helados-uvis-santo-domingo",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo Oeste",
     "address": "Carr Duarte Vieja, Santo Domingo",
     "lat": 18.4822268,
     "lng": -69.9803439,
@@ -587,7 +587,7 @@
   {
     "name": "Heladería Valentino",
     "slug": "heladeria-valentino-santo-domingo",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo DN",
     "address": "F27J+9VC, Avenida Gustavo A. Mejía Ricart, Santo Domingo",
     "lat": 18.4634462,
     "lng": -69.9678703,
@@ -607,7 +607,7 @@
   {
     "name": "Gelato 4D",
     "slug": "gelato-4d",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo DN",
     "address": "Sambil, Plaza, Av. John F. Kennedy Esq, Santo Domingo 10413",
     "lat": 18.4825417,
     "lng": -69.91216519999999,
@@ -628,7 +628,7 @@
   {
     "name": "Helados Artesanales Títi",
     "slug": "helados-artesanales-titi",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo Norte",
     "address": "10801, Santo Domingo 10014",
     "lat": 18.527853399999998,
     "lng": -70.0168066,
@@ -669,7 +669,7 @@
   {
     "name": "HeladoDude Piantini",
     "slug": "heladodude-piantini",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo DN",
     "address": "Av. Gustavo Mejía Ricart, Santo Domingo 10125",
     "lat": 18.4754058,
     "lng": -69.93167199999999,
@@ -689,7 +689,7 @@
   {
     "name": "Saverio's Gelato",
     "slug": "saverios-gelato",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo DN",
     "address": "Av. Roberto Pastoriza 554, Santo Domingo 10147",
     "lat": 18.465404499999998,
     "lng": -69.9393333,
@@ -710,7 +710,7 @@
   {
     "name": "Kiero gelato artesanal",
     "slug": "kiero-gelato-artesanal",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo Este",
     "address": "esquina aruba, C. Jose Cabrera, Santo Domingo Este 11501",
     "lat": 18.4946992,
     "lng": -69.8673501,
@@ -732,7 +732,7 @@
   {
     "name": "Helados Splash",
     "slug": "helados-splash",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo DN",
     "address": "C. José Gabriel García 408, Santo Domingo 10208",
     "lat": 18.4662568,
     "lng": -69.8934791,
@@ -752,7 +752,7 @@
   {
     "name": "Heladería Valentino Unidos Bella Vista",
     "slug": "heladeria-valentino-unidos-bella-vista",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo DN",
     "address": "Almacenes Unidos S.A.S., Av. Sarasota 102, Santo Domingo",
     "lat": 18.4558656,
     "lng": -69.9380616,
@@ -792,7 +792,7 @@
   {
     "name": "Fresamania Zona Colonial",
     "slug": "fresamania-zona-colonial",
-    "city": "Santo Domingo",
+    "city": "Zona Colonial",
     "address": "Calle El Conde &, C. Santomé 10210, Santo Domingo",
     "lat": 18.472075099999998,
     "lng": -69.8894499,
@@ -812,7 +812,7 @@
   {
     "name": "Hot and Cold",
     "slug": "hot-and-cold",
-    "city": "Santo Domingo",
+    "city": "Zona Colonial",
     "address": "C. Padre Billini, Santo Domingo 10210",
     "lat": 18.4722065,
     "lng": -69.8834279,
@@ -832,7 +832,7 @@
   {
     "name": "Congelatto",
     "slug": "congelatto",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo Este",
     "address": "C. 1ra 9, Santo Domingo Este",
     "lat": 18.499581499999998,
     "lng": -69.833389,
@@ -853,7 +853,7 @@
   {
     "name": "VainitaFría",
     "slug": "vainitafria",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo DN",
     "address": "C. Marginal Rómulo Betancourt edif. 17, Santo Domingo 10114",
     "lat": 18.4501345,
     "lng": -69.9560599,
@@ -873,7 +873,7 @@
   {
     "name": "Helados Maxytetas Venezolanas",
     "slug": "helados-maxytetas-venezolanas",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo DN",
     "address": "F2PX+9GM, Santo Domingo 10602",
     "lat": 18.4859673,
     "lng": -69.9511993,
@@ -893,7 +893,7 @@
   {
     "name": "Helados Sarita Amalia",
     "slug": "helados-sarita-amalia",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo Este",
     "address": "Esquina K, Calle Penetracion, Santo Domingo Este",
     "lat": 18.503893599999998,
     "lng": -69.79593249999999,
@@ -913,7 +913,7 @@
   {
     "name": "Heladeria Angela",
     "slug": "heladeria-angela",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo DN",
     "address": "C. 6 109, Santo Domingo 10407",
     "lat": 18.503729,
     "lng": -69.8983508,
@@ -933,7 +933,7 @@
   {
     "name": "HeladoDude Los Altos",
     "slug": "heladodude-los-altos",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo Oeste",
     "address": "Los Altos Town Center, Santo Domingo",
     "lat": 18.5069612,
     "lng": -69.97054899999999,
@@ -953,7 +953,7 @@
   {
     "name": "Heladería Artesanal Bryfio",
     "slug": "heladeria-artesanal-bryfio",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo DN",
     "address": "C. Fabio Fiallo 5, Santo Domingo 10014",
     "lat": 18.4660984,
     "lng": -69.89336449999999,
@@ -974,7 +974,7 @@
   {
     "name": "D'Engmel Helados Y Más",
     "slug": "dengmel-helados-y-mas",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo Oeste",
     "address": "C2W8+R98, Calle Sta Clara, Santo Domingo",
     "lat": 18.4470374,
     "lng": -69.98403309999999,
@@ -994,7 +994,7 @@
   {
     "name": "Heladeria Bon Buenos Aires",
     "slug": "heladeria-bon-buenos-aires",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo Oeste",
     "address": "Av. México 37, Santo Domingo",
     "lat": 18.469277299999998,
     "lng": -69.97751889999999,
@@ -1034,7 +1034,7 @@
   {
     "name": "Heladería cafetería Dulce Vida",
     "slug": "heladeria-cafeteria-dulce-vida",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo Este",
     "address": "C. Jacinto de los Santos 4, Santo Domingo Este",
     "lat": 18.4746254,
     "lng": -69.8531327,
@@ -1054,7 +1054,7 @@
   {
     "name": "Fundita Helados Naturales",
     "slug": "fundita-helados-naturales",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo Este",
     "address": "F5V2+P9H, C. Puerto Rico, Santo Domingo Este",
     "lat": 18.4943238,
     "lng": -69.8490152,
@@ -1074,7 +1074,7 @@
   {
     "name": "Helados Delicias de Raquel RD",
     "slug": "helados-delicias-de-raquel-rd",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo Oeste",
     "address": "Calle Salomé Ureña 3 esq, Santo Domingo 10902",
     "lat": 18.4765084,
     "lng": -69.97975939999999,
@@ -1094,7 +1094,7 @@
   {
     "name": "Heladeria Adames",
     "slug": "heladeria-adames",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo Oeste",
     "address": "C. 17 19, Santo Domingo 10802",
     "lat": 18.513723199999998,
     "lng": -70.03615769999999,
@@ -1114,7 +1114,7 @@
   {
     "name": "HELADOS CHEVALIER",
     "slug": "helados-chevalier",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo DN",
     "address": "11505, C. 6 53, Santo Domingo 11505",
     "lat": 18.505175599999998,
     "lng": -69.9022969,
@@ -1235,7 +1235,7 @@
   {
     "name": "Mama Mena Helados Artesanales",
     "slug": "mama-mena-helados-artesanales",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo DN",
     "address": "Condominio Olimpus Apt, Av. Las Ninfas Esq, C. Helios, Santo Domingo 10112",
     "lat": 18.4512231,
     "lng": -69.9453618,
@@ -1316,7 +1316,7 @@
   {
     "name": "Heladería susan",
     "slug": "heladeria-susan",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo DN",
     "address": "C. 39 Este, Santo Domingo 10401",
     "lat": 18.5042731,
     "lng": -69.8984205,
@@ -1336,7 +1336,7 @@
   {
     "name": "Sweet Frog",
     "slug": "sweet-frog",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo DN",
     "address": "Av. Winston Churchill 1452, Santo Domingo",
     "lat": 18.4749686,
     "lng": -69.9432428,
@@ -1356,7 +1356,7 @@
   {
     "name": "Hielitos Gourmet by Adry Classe",
     "slug": "hielitos-gourmet-by-adry-classe",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo Este",
     "address": "G55Q+VVV, Santo Domingo Este C/ L #15 Brisas del Edén Mendoza, esté 11803",
     "lat": 18.5096875,
     "lng": -69.8103125,
@@ -1436,7 +1436,7 @@
   {
     "name": "Dolce Freddo",
     "slug": "dolce-freddo",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo Este",
     "address": "C. Hermanas Mirabal 110, Santo Domingo Este 11519",
     "lat": 18.5142868,
     "lng": -69.85715309999999,
@@ -1456,7 +1456,7 @@
   {
     "name": "Ricuras de Doña Esperanza / La Dulcería SDE",
     "slug": "ricuras-de-dona-esperanza-la-dulceria-sde",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo Este",
     "address": "casi esquina, C. 19, Santo Domingo Este 11506",
     "lat": 18.4863827,
     "lng": -69.844539,
@@ -1476,7 +1476,7 @@
   {
     "name": "Paletas Bajo Cero",
     "slug": "paletas-bajo-cero-santo-domingo-2",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo Este",
     "address": "Megacentro - Nivel 1 - Pasillo Caribe, Carr. de Mendoza, Santo Domingo Este 11511",
     "lat": 18.5064626,
     "lng": -69.8568581,
@@ -1497,7 +1497,7 @@
   {
     "name": "Denissimo ice cream",
     "slug": "denissimo-ice-cream",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo Este",
     "address": "C. Guayubín Olivo 38, Santo Domingo Este 11517",
     "lat": 18.516336499999998,
     "lng": -69.85123039999999,
@@ -1678,7 +1678,7 @@
   {
     "name": "Helados Mily",
     "slug": "helados-mily",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo Este",
     "address": "Calle Presidente Antonio Guzmán 7, Santo Domingo Este 11802",
     "lat": 18.5152078,
     "lng": -69.8213452,
@@ -1800,7 +1800,7 @@
   {
     "name": "Adecremeria",
     "slug": "adecremeria",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo Oeste",
     "address": "F246+8Q5, Respaldo del Seminario, Santo Domingo",
     "lat": 18.4557523,
     "lng": -69.9880039,
@@ -1820,7 +1820,7 @@
   {
     "name": "HELADOS VENEZUELA",
     "slug": "helados-venezuela",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo Oeste",
     "address": "Cuba 7, Santo Domingo",
     "lat": 18.467999,
     "lng": -69.9768794,
@@ -1880,7 +1880,7 @@
   {
     "name": "Santa Delicias",
     "slug": "santa-delicias",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo Este",
     "address": "C. Ramón A. Castillo, Santo Domingo Este 11504",
     "lat": 18.4938103,
     "lng": -69.856721,
@@ -2121,7 +2121,7 @@
   {
     "name": "Gelato by Soto",
     "slug": "gelato-by-soto",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo Norte",
     "address": "C. 30, Santo Domingo",
     "lat": 18.550323199999998,
     "lng": -69.8648941,
@@ -2142,7 +2142,7 @@
   {
     "name": "Helados de funditas Cele",
     "slug": "helados-de-funditas-cele",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo DN",
     "address": "C. Boca Canasta, Santo Domingo",
     "lat": 18.4363867,
     "lng": -69.9504412,
@@ -2162,7 +2162,7 @@
   {
     "name": "HELADON",
     "slug": "heladon",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo DN",
     "address": "C. Juan Erazo 286, Santo Domingo 10409",
     "lat": 18.4932084,
     "lng": -69.90697,
@@ -2182,7 +2182,7 @@
   {
     "name": "Helados Bon",
     "slug": "helados-bon-santo-domingo-2",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo DN",
     "address": "F3FH+PVH, Av. José Ortega y Gasset, Santo Domingo",
     "lat": 18.4743034,
     "lng": -69.92028049999999,
@@ -2202,7 +2202,7 @@
   {
     "name": "Helados Bon • Av. 27 de Febrero",
     "slug": "helados-bon-av-27-de-febrero",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo DN",
     "address": "Av 27 de Febrero, Santo Domingo 10203",
     "lat": 18.4765357,
     "lng": -69.9113316,
@@ -2222,7 +2222,7 @@
   {
     "name": "Chiky Helados",
     "slug": "chiky-helados",
-    "city": "Santo Domingo",
+    "city": "Zona Colonial",
     "address": "C. Imbert 50, Santo Domingo",
     "lat": 18.4738307,
     "lng": -69.8940318,
@@ -2242,7 +2242,7 @@
   {
     "name": "Heladeria Gladis",
     "slug": "heladeria-gladis",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo Este",
     "address": "F837+GX2, Calle Nicolas Penson, Santo Domingo",
     "lat": 18.4537712,
     "lng": -69.6850977,
@@ -2262,7 +2262,7 @@
   {
     "name": "Venefrost Santo Domingo",
     "slug": "venefrost-santo-domingo",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo DN",
     "address": "esquina independencia, Calle Turey, Santo Domingo 10102",
     "lat": 18.446986499999998,
     "lng": -69.9324936,
@@ -2282,7 +2282,7 @@
   {
     "name": "Col. heladeria paz",
     "slug": "col-heladeria-paz",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo Norte",
     "address": "G6Q9+XR7, Santo Domingo Este 10404",
     "lat": 18.5399107,
     "lng": -69.78043869999999,
@@ -2302,7 +2302,7 @@
   {
     "name": "Paletas Bajo Cero San Isidro",
     "slug": "paletas-bajo-cero-san-isidro",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo Este",
     "address": "F5QC+4GC, Autop. de San Isidro, Santo Domingo Este",
     "lat": 18.4878049,
     "lng": -69.82871879999999,
@@ -2323,7 +2323,7 @@
   {
     "name": "Helados Bon El Almirante",
     "slug": "helados-bon-el-almirante",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo Norte",
     "address": "Santo Domingo Este",
     "lat": 18.529781399999997,
     "lng": -69.8138464,
@@ -2343,7 +2343,7 @@
   {
     "name": "Heladeria Jenniffer",
     "slug": "heladeria-jenniffer",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo Este",
     "address": "F798+X4Q, Santo Domingo Este",
     "lat": 18.4699658,
     "lng": -69.7346503,
@@ -2403,7 +2403,7 @@
   {
     "name": "D lucy heladeria",
     "slug": "d-lucy-heladeria",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo Este",
     "address": "al lado del colegio mateo lafond, C/ Francisco del rosario Sanchez esq. #12, la caleta campo lindo boca chica, Santo Domingo 11500",
     "lat": 18.4600321,
     "lng": -69.67717329999999,
@@ -2423,7 +2423,7 @@
   {
     "name": "Heladería Sarita Las Américas",
     "slug": "heladeria-sarita-las-americas",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo Este",
     "address": "F686+RQ6, C. Segunda, Santo Domingo Este",
     "lat": 18.4670484,
     "lng": -69.7881067,
@@ -2443,7 +2443,7 @@
   {
     "name": "Heladería La Familia",
     "slug": "heladeria-la-familia",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo Este",
     "address": "C. Farallón Nte., Santo Domingo Este",
     "lat": 18.4819298,
     "lng": -69.7781576,
@@ -2463,7 +2463,7 @@
   {
     "name": "Heladería La Bendición",
     "slug": "heladeria-la-bendicion",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo Este",
     "address": "Carretera mella Klm 36, Santo Domingo Este 15700",
     "lat": 18.5055247,
     "lng": -69.61441239999999,
@@ -2483,7 +2483,7 @@
   {
     "name": "Helados y Dulces Camil",
     "slug": "helados-y-dulces-camil",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo Este",
     "address": "F5X8+JPP, Carr. de Mendoza, Santo Domingo Este",
     "lat": 18.499096299999998,
     "lng": -69.8331788,
@@ -2503,7 +2503,7 @@
   {
     "name": "Helados Bon",
     "slug": "helados-bon-santo-domingo-2",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo Este",
     "address": "F682+9VP, Marginal Avenida Las Américas, Santo Domingo Este 11706",
     "lat": 18.4659528,
     "lng": -69.7977868,
@@ -2563,7 +2563,7 @@
   {
     "name": "Helados Baskin Robbins Galería 360",
     "slug": "helados-baskin-robbins-galeria-360",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo DN",
     "address": "Galería 360, Av. John F. Kennedy, piso Primera, Santo Domingo",
     "lat": 18.4854685,
     "lng": -69.93613239999999,
@@ -2583,7 +2583,7 @@
   {
     "name": "Helados Bon",
     "slug": "helados-bon-santo-domingo-2",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo DN",
     "address": "Luis Amiama Tió Casi Esq. 18, Santo Domingo",
     "lat": 18.4923409,
     "lng": -69.93579439999999,
@@ -2603,7 +2603,7 @@
   {
     "name": "Helados Bon / Yogen Früz",
     "slug": "helados-bon-yogen-fruz",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo DN",
     "address": "Av. Tiradentes 49, Santo Domingo 10122",
     "lat": 18.4781108,
     "lng": -69.9273231,
@@ -2623,7 +2623,7 @@
   {
     "name": "Distribuidora De Helados Uvis MS",
     "slug": "distribuidora-de-helados-uvis-ms",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo DN",
     "address": "C. Diag. 1ra #55, Santo Domingo 10410",
     "lat": 18.4972744,
     "lng": -69.9033405,
@@ -2663,7 +2663,7 @@
   {
     "name": "Heladería & Pizzería Don Lauro",
     "slug": "heladeria-pizzeria-don-lauro",
-    "city": "Las Matas De Santa Cruz",
+    "city": "Las Matas de Santa Cruz",
     "address": "C. Pedro A. Pimentel 40, Las Matas De Santa Cruz 62000",
     "lat": 19.6669555,
     "lng": -71.50605949999999,
@@ -2683,7 +2683,7 @@
   {
     "name": "De Sanchez Variedades",
     "slug": "de-sanchez-variedades",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo Norte",
     "address": "G4R7+6W5, Calle, Santo Domingo",
     "lat": 18.5405117,
     "lng": -69.88515129999999,
@@ -2703,7 +2703,7 @@
   {
     "name": "Venefrost Zona Oriental",
     "slug": "venefrost-zona-oriental",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo Este",
     "address": "C. Costa Rica 185, Santo Domingo Este",
     "lat": 18.4947516,
     "lng": -69.8509706,
@@ -2723,7 +2723,7 @@
   {
     "name": "Helados Carmen",
     "slug": "helados-carmen",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo Este",
     "address": "c5 13, Santo Domingo Este 10505",
     "lat": 18.4986697,
     "lng": -69.83949,
@@ -2743,7 +2743,7 @@
   {
     "name": "Helados gourmet La Repostería de Arlin",
     "slug": "helados-gourmet-la-reposteria-de-arlin",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo Este",
     "address": "Respaldo Las Américas 201, Santo Domingo Este 11606",
     "lat": 18.4844469,
     "lng": -69.8635199,
@@ -2763,7 +2763,7 @@
   {
     "name": "Baskin-Robbins",
     "slug": "baskin-robbins",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo Este",
     "address": "Autopista Coronel Rafael Tomás Fernández Domínguez Plaza Cuadra, Autop. de San Isidro, Santo Domingo Este 11508",
     "lat": 18.4879174,
     "lng": -69.8286188,
@@ -2783,7 +2783,7 @@
   {
     "name": "Helados Sarita Granada Oriental",
     "slug": "helados-sarita-granada-oriental",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo Este",
     "address": "Plaza Granada Oriental, Av. Martin Luther King Jr., Santo Domingo Este",
     "lat": 18.5101859,
     "lng": -69.8149617,
@@ -2803,7 +2803,7 @@
   {
     "name": "Timo Helados",
     "slug": "timo-helados",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo Este",
     "address": "Calle 11 de Septiembre, Santo Domingo Este",
     "lat": 18.4754741,
     "lng": -69.8117477,
@@ -2823,7 +2823,7 @@
   {
     "name": "helados bon yoguen fruz",
     "slug": "helados-bon-yoguen-fruz",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo Este",
     "address": "F5VR+JF3, Santo Domingo Este",
     "lat": 18.494002,
     "lng": -69.8088266,
@@ -2843,7 +2843,7 @@
   {
     "name": "Helados🌹de Cristo",
     "slug": "heladosde-cristo",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo Este",
     "address": "C. Pradera del Este 35, Santo Domingo Este",
     "lat": 18.4946387,
     "lng": -69.759118,
@@ -2863,7 +2863,7 @@
   {
     "name": "Helados Sarita Prado Oriental",
     "slug": "helados-sarita-prado-oriental",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo Este",
     "address": "C. Dr. Hector B. Jimenez, Santo Domingo Este",
     "lat": 18.4928897,
     "lng": -69.78658659999999,
@@ -2883,7 +2883,7 @@
   {
     "name": "Distribuidora de Helados Uvis SANTO DOMINGO ESTE",
     "slug": "distribuidora-de-helados-uvis-santo-domingo-este",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo Este",
     "address": "F692+GR8, Santo Domingo Este",
     "lat": 18.4687697,
     "lng": -69.79793599999999,
@@ -2903,7 +2903,7 @@
   {
     "name": "Helados Dani",
     "slug": "helados-dani",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo Este",
     "address": "F6F2+MW2, C. Roca Cueva, Santo Domingo Este 17609",
     "lat": 18.4741307,
     "lng": -69.79772559999999,
@@ -2923,7 +2923,7 @@
   {
     "name": "CORITO",
     "slug": "corito",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo Este",
     "address": "San Pablo 64, Santo Domingo Este 11706",
     "lat": 18.47043,
     "lng": -69.78930629999999,
@@ -2943,7 +2943,7 @@
   {
     "name": "CEPIFRUITRD",
     "slug": "cepifruitrd",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo DN",
     "address": "F335+977, Santo Domingo",
     "lat": 18.453411499999998,
     "lng": -69.9418201,
@@ -2963,7 +2963,7 @@
   {
     "name": "MochiFrost",
     "slug": "mochifrost",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo DN",
     "address": "C. A esq, Santo Domingo",
     "lat": 18.452045,
     "lng": -69.926873,
@@ -2983,7 +2983,7 @@
   {
     "name": "Helados Bon • Gomez",
     "slug": "helados-bon-gomez",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo DN",
     "address": "F38Q+FH2, Av. Máximo Gómez, Santo Domingo",
     "lat": 18.466147199999998,
     "lng": -69.9111199,
@@ -3003,7 +3003,7 @@
   {
     "name": "FruitBoom_ice",
     "slug": "fruitboom_ice",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo DN",
     "address": "C. San Juan Bautista 86, Santo Domingo 10100",
     "lat": 18.444809,
     "lng": -69.941364,
@@ -3565,7 +3565,7 @@
   {
     "name": "Helados Happy",
     "slug": "helados-happy",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo Norte",
     "address": "C. Gregorio Luperón 11, Santo Domingo 11404",
     "lat": 18.5423465,
     "lng": -69.86287659999999,
@@ -4087,7 +4087,7 @@
   {
     "name": "Puntofrio Helados en Funditas",
     "slug": "puntofrio-helados-en-funditas",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo DN",
     "address": "IV Frente al Residencial Sonia Patricia, C. 3era 36, Santo Domingo",
     "lat": 18.4410557,
     "lng": -69.9352901,
@@ -4107,7 +4107,7 @@
   {
     "name": "Planet Ice Cream",
     "slug": "planet-ice-cream",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo Este",
     "address": "F5WW+PRR Residencial palmera oriental V, Bloque H, Autop. de San Isidro, Santo Domingo Este",
     "lat": 18.499568699999998,
     "lng": -69.8039816,
@@ -4127,7 +4127,7 @@
   {
     "name": "BRIANNA'S PALLET",
     "slug": "briannas-pallet",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo Este",
     "address": "C. 2, Santo Domingo Este",
     "lat": 18.4693132,
     "lng": -69.8359717,
@@ -4167,7 +4167,7 @@
   {
     "name": "D'gusto",
     "slug": "dgusto",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo Este",
     "address": "Prof. Manuel del Cabral 206, Santo Domingo Este",
     "lat": 18.513093299999998,
     "lng": -69.8247056,
@@ -4187,7 +4187,7 @@
   {
     "name": "Pepen solution",
     "slug": "pepen-solution",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo Este",
     "address": "Calle Hermanas Mirabal, Santo Domingo Este 11510",
     "lat": 18.4991652,
     "lng": -69.81814969999999,
@@ -4347,7 +4347,7 @@
   {
     "name": "Heladería BON",
     "slug": "heladeria-bon-santa-cruz-de-mao",
-    "city": "Santa Cruz de Mao",
+    "city": "Valverde Mao",
     "address": "Calle Duarte 48, Santa Cruz de Mao",
     "lat": 19.556509,
     "lng": -71.0727814,
@@ -4367,7 +4367,7 @@
   {
     "name": "Helados Bon",
     "slug": "helados-bon-santa-cruz-de-mao",
-    "city": "Santa Cruz de Mao",
+    "city": "Valverde Mao",
     "address": "Hermanas Mirabal, Santa Cruz de Mao",
     "lat": 19.5544235,
     "lng": -71.0735045,
@@ -4387,7 +4387,7 @@
   {
     "name": "De elba heladeria.",
     "slug": "de-elba-heladeria",
-    "city": "Santa Cruz de Mao",
+    "city": "Valverde Mao",
     "address": "HV6P+2RM, Santa Cruz de Mao",
     "lat": 19.5600925,
     "lng": -71.1129516,
@@ -4407,7 +4407,7 @@
   {
     "name": "EIDY HELADOS",
     "slug": "eidy-helados",
-    "city": "Mao",
+    "city": "Valverde Mao",
     "address": "Call.principal Guatapanal, Mao",
     "lat": 19.5060975,
     "lng": -70.9195166,
@@ -4427,7 +4427,7 @@
   {
     "name": "HELADERÍA P&M",
     "slug": "heladeria-pm",
-    "city": "Santa Cruz de Mao",
+    "city": "Valverde Mao",
     "address": "61000, Santa Cruz de Mao 61000",
     "lat": 19.5838398,
     "lng": -71.1652556,
@@ -4447,7 +4447,7 @@
   {
     "name": "Helados Bon",
     "slug": "helados-bon-cruce-de-guayacanes",
-    "city": "Cruce De Guayacanes",
+    "city": "Cruce de Guayacanes",
     "address": "Calle principal, Cruce De Guayacanes 61000",
     "lat": 19.6461267,
     "lng": -71.06218299999999,
@@ -5053,7 +5053,7 @@
   {
     "name": "Helados Alanna",
     "slug": "helados-alanna",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo Norte",
     "address": "C. Ambrosia Caba 12, Santo Domingo 11404",
     "lat": 18.5542536,
     "lng": -69.8622437,
@@ -5073,7 +5073,7 @@
   {
     "name": "Helados Suriel",
     "slug": "helados-suriel",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo Este",
     "address": "Santo Domingo 00000",
     "lat": 18.4662559,
     "lng": -69.6849458,
@@ -5133,7 +5133,7 @@
   {
     "name": "Paletas RD",
     "slug": "paletas-rd",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo Este",
     "address": "C. Gral. Antonio Duverge 26, Santo Domingo Este",
     "lat": 18.463832399999998,
     "lng": -69.73298969999999,
@@ -5154,7 +5154,7 @@
   {
     "name": "A Y M VARIEDADES",
     "slug": "a-y-m-variedades",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo Este",
     "address": "C. Anacaona 18, Santo Domingo Este",
     "lat": 18.4629653,
     "lng": -69.7305896,
@@ -5194,7 +5194,7 @@
   {
     "name": "J&A heladeria conito feliz",
     "slug": "ja-heladeria-conito-feliz",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo Este",
     "address": "11500, Santo Domingo Este",
     "lat": 18.4535128,
     "lng": -69.62766739999999,
@@ -5214,7 +5214,7 @@
   {
     "name": "Distribuidora JCespedes",
     "slug": "distribuidora-jcespedes",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo Oeste",
     "address": "Av. Álvarez Guzmán #1, Los Coroneles de, Álvarez Guzmán 9, Santo Domingo 10904",
     "lat": 18.4576998,
     "lng": -69.9782956,
@@ -5234,7 +5234,7 @@
   {
     "name": "Mabizuela",
     "slug": "mabizuela",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo Oeste",
     "address": "Cuba 9, Santo Domingo",
     "lat": 18.4679427,
     "lng": -69.9772053,
@@ -5376,7 +5376,7 @@
   {
     "name": "GelaKeyMix",
     "slug": "gelakeymix",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo Oeste",
     "address": "Av. Florencio de Leon 54, Santo Domingo 81102",
     "lat": 18.4489453,
     "lng": -70.04011129999999,
@@ -5496,7 +5496,7 @@
   {
     "name": "Kei's Cream",
     "slug": "keis-cream",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo DN",
     "address": "10513, Santo Domingo 10513",
     "lat": 18.4834578,
     "lng": -69.9177057,
@@ -5516,7 +5516,7 @@
   {
     "name": "Baskin Robbins- Gazcue",
     "slug": "baskin-robbins-gazcue",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo DN",
     "address": "Av Simón Bolívar, Santo Domingo",
     "lat": 18.4695982,
     "lng": -69.90186299999999,
@@ -5536,7 +5536,7 @@
   {
     "name": "Helados Coky Ice",
     "slug": "helados-coky-ice",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo Este",
     "address": "F4FM+VVH, C. 6, Santo Domingo Este",
     "lat": 18.4746897,
     "lng": -69.8652682,
@@ -5556,7 +5556,7 @@
   {
     "name": "El rincón de anadarys",
     "slug": "el-rincon-de-anadarys",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo Este",
     "address": "G525+9JP, Santo Domingo Este 11510",
     "lat": 18.501998999999998,
     "lng": -69.8406676,
@@ -5576,7 +5576,7 @@
   {
     "name": "Helarte en fundita",
     "slug": "helarte-en-fundita",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo Norte",
     "address": "Santo Domingo Este",
     "lat": 18.5329935,
     "lng": -69.84090619999999,
@@ -5596,7 +5596,7 @@
   {
     "name": "ALASKA: Helados, Cervezas Y Más",
     "slug": "alaska-helados-cervezas-y-mas",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo Norte",
     "address": "peaton C9, Santo Domingo",
     "lat": 18.547781099999998,
     "lng": -69.857429,
@@ -5616,7 +5616,7 @@
   {
     "name": "Cafeteria mi Tipi",
     "slug": "cafeteria-mi-tipi",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo Este",
     "address": "entre calle curazao y, Av. San Vicente de Paúl, Santo Domingo Este",
     "lat": 18.4981512,
     "lng": -69.8520597,
@@ -5636,7 +5636,7 @@
   {
     "name": "Cono Loco",
     "slug": "cono-loco",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo Norte",
     "address": "Carr. Villa Mella-Yamasa, Santo Domingo 11201",
     "lat": 18.5573856,
     "lng": -69.90450249999999,
@@ -5656,7 +5656,7 @@
   {
     "name": "TheMilacake",
     "slug": "themilacake",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo Norte",
     "address": "H338+R9W, C. Circunvalación, Santo Domingo",
     "lat": 18.5546126,
     "lng": -69.93406,
@@ -5676,7 +5676,7 @@
   {
     "name": "Tropical Mix RD",
     "slug": "tropical-mix-rd",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo DN",
     "address": "C2XP+WVQ, C. Miguel Ángel Monclús, Santo Domingo 10114",
     "lat": 18.449828,
     "lng": -69.96276739999999,
@@ -5696,7 +5696,7 @@
   {
     "name": "Helados Bon",
     "slug": "helados-bon-santo-domingo-2",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo DN",
     "address": "C. Buenaventura Freites 149, Santo Domingo",
     "lat": 18.4870144,
     "lng": -69.9637383,
@@ -5716,7 +5716,7 @@
   {
     "name": "AisuGoi",
     "slug": "aisugoi",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo DN",
     "address": "C. Central 7, Santo Domingo 10601",
     "lat": 18.482264,
     "lng": -69.9627928,
@@ -6176,7 +6176,7 @@
   {
     "name": "Helados Bon",
     "slug": "helados-bon-santo-domingo-2",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo DN",
     "address": "Av. República de Colombia 68, Santo Domingo",
     "lat": 18.4959916,
     "lng": -69.9592314,
@@ -6196,7 +6196,7 @@
   {
     "name": "Yova's Desserts Unphu",
     "slug": "yovas-desserts-unphu",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo DN",
     "address": "F3M2+VCR, Santo Domingo",
     "lat": 18.4847273,
     "lng": -69.9489834,
@@ -6216,7 +6216,7 @@
   {
     "name": "Helados Bon",
     "slug": "helados-bon-santo-domingo-2",
-    "city": "Santo Domingo",
+    "city": "Santo Domingo DN",
     "address": "Edificio Lusang, Av. José Núñez de Cáceres 36, Santo Domingo 10131",
     "lat": 18.474816099999998,
     "lng": -69.96105179999999,
@@ -7220,5 +7220,340 @@
     ],
     "has_ig": false,
     "place_id": "ChIJrSzv9SgrsI4RCQD0ikrk-Zo"
+  },
+  {
+    "name": "Heladería El Botey Ice Cream Station",
+    "slug": "heladeria-el-botey-bavaro",
+    "city": "Bávaro",
+    "address": "Bávaro area, Punta Cana 23000",
+    "lat": 18.6893,
+    "lng": -68.4062,
+    "score": 4.5,
+    "reviews": 13,
+    "phone": "",
+    "hours": "Daily 10am–5pm",
+    "tags": [
+      "helados"
+    ],
+    "specialty": "Pool/beachside ice cream stand. Bizcocho (cake) flavor is the crowd favorite.",
+    "tier": "$"
+  },
+  {
+    "name": "Gustoso Gelato",
+    "slug": "gustoso-gelato-bavaro",
+    "city": "Bávaro",
+    "address": "Plaza San Juan, Av. Barceló, Bávaro, Punta Cana 23000",
+    "lat": 18.6705,
+    "lng": -68.4275,
+    "score": 4.6,
+    "reviews": 25,
+    "phone": "",
+    "hours": "Daily 10am–10pm",
+    "tags": [
+      "gelato",
+      "artesanal",
+      "vegano"
+    ],
+    "specialty": "Artisanal gelato with ~12 flavors including vegan options.",
+    "tier": "$$"
+  },
+  {
+    "name": "Gelato BellaNapoli",
+    "slug": "gelato-bellanapoli-bavaro",
+    "city": "Bávaro",
+    "address": "Bávaro, Punta Cana 23000",
+    "lat": 18.672,
+    "lng": -68.4266,
+    "score": 4.5,
+    "reviews": 2,
+    "phone": "",
+    "hours": "Mon–Tue, Thu–Sun 8am–12am, Closed Wed",
+    "tags": [
+      "gelato"
+    ],
+    "specialty": "Italian gelato in Bávaro.",
+    "tier": "$$"
+  },
+  {
+    "name": "Scoops Gelato and Caffé Lounge",
+    "slug": "scoops-gelato-caffe-bavaro",
+    "city": "Bávaro",
+    "address": "Royalton Bávaro Resort, Punta Cana 23000",
+    "lat": 18.6588,
+    "lng": -68.3823,
+    "score": 3.8,
+    "reviews": 5,
+    "phone": "",
+    "hours": "Daily 7am–11pm",
+    "tags": [
+      "gelato",
+      "café"
+    ],
+    "specialty": "Resort-based gelato and coffee bar. Espresso and liquor add-ins.",
+    "tier": "$$$"
+  },
+  {
+    "name": "Ice Cone Punta Cana",
+    "slug": "ice-cone-punta-cana",
+    "city": "Punta Cana",
+    "address": "Near casino area, Punta Cana 23000",
+    "lat": 18.6591,
+    "lng": -68.3736,
+    "score": 4.3,
+    "reviews": 14,
+    "phone": "",
+    "hours": "Daily until 11pm",
+    "tags": [
+      "paletas",
+      "helados"
+    ],
+    "specialty": "Great fruit popsicles and giant sundaes.",
+    "tier": "$$"
+  },
+  {
+    "name": "Coco Cafe Secrets Cap Cana",
+    "slug": "coco-cafe-secrets-cap-cana",
+    "city": "Cap Cana",
+    "address": "Cap Cana resort area, Punta Cana 23000",
+    "lat": 18.506,
+    "lng": -68.368,
+    "score": 4.9,
+    "reviews": 29,
+    "phone": "",
+    "hours": "Open 24 hours",
+    "tags": [
+      "café",
+      "helados"
+    ],
+    "specialty": "Café with milkshakes, ice cream, and snacks.",
+    "tier": "$$$"
+  },
+  {
+    "name": "Heladeria Valentino Api Beach",
+    "slug": "heladeria-valentino-cap-cana",
+    "city": "Cap Cana",
+    "address": "Api Beach, Cap Cana, Punta Cana 23000",
+    "lat": 18.5015,
+    "lng": -68.3769,
+    "score": 4.0,
+    "reviews": 10,
+    "phone": "",
+    "hours": "Daily 10am–8pm",
+    "tags": [
+      "helados"
+    ],
+    "specialty": "One of the only ice cream shops in this upscale area.",
+    "tier": "$$$"
+  },
+  {
+    "name": "Crazy Good Gourmet Foods",
+    "slug": "crazy-good-gourmet-sosua",
+    "city": "Sosúa",
+    "address": "Across from Hard Rock Café, Duarte Local #11, Sosúa 57000",
+    "lat": 19.7635,
+    "lng": -70.5163,
+    "score": 5.0,
+    "reviews": 25,
+    "phone": "",
+    "hours": "Mon–Thu 12–8pm, Fri 12–8pm, Sat–Sun 12–6pm",
+    "tags": [
+      "artesanal",
+      "natural"
+    ],
+    "specialty": "Hidden gem. ALL homemade, all-natural ice cream. Cheaper than Bon.",
+    "tier": "$"
+  },
+  {
+    "name": "Helados Bon Sosúa",
+    "slug": "helados-bon-sosua",
+    "city": "Sosúa",
+    "address": "Dr. Rosen 14, Sosúa 57000",
+    "lat": 19.7651,
+    "lng": -70.5162,
+    "score": 4.3,
+    "reviews": 212,
+    "phone": "",
+    "hours": "Daily 9am–11pm",
+    "tags": [
+      "cadena"
+    ],
+    "specialty": "Popular with Casa Marina resort visitors.",
+    "tier": "$"
+  },
+  {
+    "name": "Dolci e Sapori Cake & Kitchen",
+    "slug": "dolci-e-sapori-sosua",
+    "city": "Sosúa",
+    "address": "Pedro Clisante 33, Sosúa 57000",
+    "lat": 19.764,
+    "lng": -70.5155,
+    "score": 4.7,
+    "reviews": 393,
+    "phone": "",
+    "hours": "Mon–Tue, Thu–Sun 8am–11pm, Closed Wed",
+    "tags": [
+      "gelato",
+      "restaurante"
+    ],
+    "specialty": "Italian restaurant with excellent desserts including gelato.",
+    "tier": "$$"
+  },
+  {
+    "name": "Delicias De Doña Nune",
+    "slug": "delicias-dona-nune-sosua",
+    "city": "Sosúa",
+    "address": "Sosúa 57000",
+    "lat": 19.763,
+    "lng": -70.515,
+    "score": 5.0,
+    "reviews": 11,
+    "phone": "",
+    "hours": "Open 24 hours, 7 days",
+    "tags": [
+      "helados"
+    ],
+    "specialty": "The best ice creams ever — open around the clock.",
+    "tier": "$"
+  },
+  {
+    "name": "Bel Pomeriggio Heladeria",
+    "slug": "bel-pomeriggio-samana",
+    "city": "Samaná",
+    "address": "Near the Malecón, Samaná 32200",
+    "lat": 19.2038,
+    "lng": -69.3332,
+    "score": 4.9,
+    "reviews": 36,
+    "phone": "",
+    "hours": "Mon–Fri 2–10pm, Sat–Sun 11am–10pm",
+    "tags": [
+      "gelato",
+      "artesanal"
+    ],
+    "specialty": "Stunning artisanal Italian gelato. Low-sugar options.",
+    "tier": "$$"
+  },
+  {
+    "name": "Heladería Dianel — Helados Sarita",
+    "slug": "heladeria-dianel-samana",
+    "city": "Samaná",
+    "address": "C. Julio Lavandier, Samaná 32000",
+    "lat": 19.2045,
+    "lng": -69.3342,
+    "score": 4.6,
+    "reviews": 71,
+    "phone": "",
+    "hours": "Mon 8am–10pm, Tue–Sat 9am–10pm, Sun 9am–10:30pm",
+    "tags": [
+      "helados"
+    ],
+    "specialty": "Local favorite with great shakes and traditional flavors.",
+    "tier": "$"
+  },
+  {
+    "name": "Helados Bon Samaná",
+    "slug": "helados-bon-samana",
+    "city": "Samaná",
+    "address": "Near the Malecón, Samaná 32000",
+    "lat": 19.2036,
+    "lng": -69.3325,
+    "score": 4.3,
+    "reviews": 101,
+    "phone": "",
+    "hours": "Daily 9am–10:45pm",
+    "tags": [
+      "cadena"
+    ],
+    "specialty": "Good lemon and mango/chinola flavors.",
+    "tier": "$"
+  },
+  {
+    "name": "Helados Bon Cabarete",
+    "slug": "helados-bon-cabarete",
+    "city": "Cabarete",
+    "address": "Cabarete, Puerto Plata 57000",
+    "lat": 19.758,
+    "lng": -70.418,
+    "score": 4.3,
+    "reviews": 50,
+    "phone": "",
+    "hours": "Daily 9am–11pm",
+    "tags": [
+      "cadena"
+    ],
+    "specialty": "Helados Bon in kiteboarding capital.",
+    "tier": "$"
+  },
+  {
+    "name": "Sal Marina Cafe",
+    "slug": "sal-marina-cafe-juan-dolio",
+    "city": "Juan Dolio",
+    "address": "Plaza Colonia Tropical, Carr. Nueva, Playa Juan Dolio",
+    "lat": 18.4293,
+    "lng": -69.3999,
+    "score": 5.0,
+    "reviews": 18,
+    "phone": "",
+    "hours": "Tue–Fri 3–8pm, Sat–Sun 8am–8pm, Closed Mon",
+    "tags": [
+      "gelato",
+      "café"
+    ],
+    "specialty": "Incredible gelato and workspace. The most delicious and creamy gelato.",
+    "tier": "$$"
+  },
+  {
+    "name": "Il Gelato di Giuseppe",
+    "slug": "il-gelato-di-giuseppe-dominicus",
+    "city": "Bayahíbe",
+    "address": "Av. Eladia, Dominicus 23000",
+    "lat": 18.3486,
+    "lng": -68.8273,
+    "score": 4.8,
+    "reviews": 73,
+    "phone": "+1 829-289-2329",
+    "hours": "Daily 1:30–9:30pm",
+    "tags": [
+      "gelato",
+      "artesanal"
+    ],
+    "specialty": "Best gelato in Dominicus. ~18 flavors daily, cash only.",
+    "tier": "$$"
+  },
+  {
+    "name": "Heladería Dulce Tentación",
+    "slug": "dulce-tentacion-bayahibe",
+    "city": "Bayahíbe",
+    "address": "C. Federico Rijo 62, Bayahibe 23000",
+    "lat": 18.3681,
+    "lng": -68.8392,
+    "score": 4.8,
+    "reviews": 59,
+    "phone": "+1 809-815-0890",
+    "hours": "Daily 2–10:30pm",
+    "tags": [
+      "gelato",
+      "artesanal"
+    ],
+    "specialty": "Best gelato in the DR. Air-conditioned! 20+ flavors. Cash only.",
+    "tier": "$$"
+  },
+  {
+    "name": "Sweet Home Bayahibe",
+    "slug": "sweet-home-bayahibe",
+    "city": "Bayahíbe",
+    "address": "Plaza El Sol, Carretera Principal de Bayahibe, Bayahibe 23000",
+    "lat": 18.3696,
+    "lng": -68.8394,
+    "score": 4.9,
+    "reviews": 74,
+    "phone": "+1 829-556-1818",
+    "hours": "Mon, Wed–Sun 7:30am–7:30pm, Closed Tue",
+    "tags": [
+      "café",
+      "helados"
+    ],
+    "specialty": "Pastry/coffee shop with ice cream. Tres leches cake is legendary.",
+    "tier": "$$"
   }
 ]
