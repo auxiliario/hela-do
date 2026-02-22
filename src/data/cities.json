@@ -4,594 +4,594 @@
     "slug": "santo-domingo-dn",
     "lat": 18.4704,
     "lng": -69.9331,
-    "shopCount": 53
+    "shop_count": 53
   },
   {
     "name": "Santo Domingo Este",
     "slug": "santo-domingo-este",
     "lat": 18.4873,
     "lng": -69.802,
-    "shopCount": 46
+    "shop_count": 46
   },
   {
     "name": "Santiago",
     "slug": "santiago",
     "lat": 19.4555,
     "lng": -70.6904,
-    "shopCount": 37
+    "shop_count": 37
   },
   {
     "name": "Puerto Plata",
     "slug": "puerto-plata",
     "lat": 19.7929,
     "lng": -70.6966,
-    "shopCount": 16
+    "shop_count": 16
   },
   {
     "name": "Santo Domingo Oeste",
     "slug": "santo-domingo-oeste",
     "lat": 18.4698,
     "lng": -69.9882,
-    "shopCount": 14
+    "shop_count": 14
   },
   {
     "name": "La Vega",
     "slug": "la-vega",
     "lat": 19.2226,
     "lng": -70.512,
-    "shopCount": 12
+    "shop_count": 12
   },
   {
     "name": "La Romana",
     "slug": "la-romana",
     "lat": 18.4191,
     "lng": -68.981,
-    "shopCount": 11
+    "shop_count": 11
   },
   {
     "name": "Santo Domingo Norte",
     "slug": "santo-domingo-norte",
     "lat": 18.5434,
     "lng": -69.8748,
-    "shopCount": 11
+    "shop_count": 11
   },
   {
     "name": "Bonao",
     "slug": "bonao",
     "lat": 18.9429,
     "lng": -70.4045,
-    "shopCount": 10
+    "shop_count": 10
   },
   {
     "name": "Jarabacoa",
     "slug": "jarabacoa",
     "lat": 19.1203,
     "lng": -70.631,
-    "shopCount": 8
+    "shop_count": 8
   },
   {
     "name": "San Cristóbal",
     "slug": "san-cristobal",
     "lat": 18.5906,
     "lng": -70.1895,
-    "shopCount": 8
+    "shop_count": 8
   },
   {
     "name": "San Francisco de Macorís",
     "slug": "san-francisco-de-macoris",
     "lat": 19.2955,
     "lng": -70.2631,
-    "shopCount": 7
+    "shop_count": 7
   },
   {
     "name": "San Pedro de Macorís",
     "slug": "san-pedro-de-macoris",
     "lat": 18.4503,
     "lng": -69.3003,
-    "shopCount": 7
+    "shop_count": 7
   },
   {
     "name": "Zona Colonial",
     "slug": "zona-colonial",
     "lat": 18.4739,
     "lng": -69.8867,
-    "shopCount": 6
+    "shop_count": 6
   },
   {
     "name": "Bajos de Haina",
     "slug": "bajos-de-haina",
     "lat": 18.4224,
     "lng": -70.0256,
-    "shopCount": 5
+    "shop_count": 5
   },
   {
     "name": "Higüey",
     "slug": "higuey",
     "lat": 18.6108,
     "lng": -68.7198,
-    "shopCount": 5
+    "shop_count": 5
   },
   {
     "name": "Moca",
     "slug": "moca",
     "lat": 19.3833,
     "lng": -70.5165,
-    "shopCount": 5
+    "shop_count": 5
   },
   {
     "name": "San Juan de la Maguana",
     "slug": "san-juan-de-la-maguana",
     "lat": 18.8064,
     "lng": -71.2267,
-    "shopCount": 5
+    "shop_count": 5
   },
   {
     "name": "Valverde Mao",
     "slug": "valverde-mao",
     "lat": 19.5522,
     "lng": -71.0688,
-    "shopCount": 5
+    "shop_count": 5
   },
   {
     "name": "Azua",
     "slug": "azua",
     "lat": 18.4468,
     "lng": -70.7524,
-    "shopCount": 4
+    "shop_count": 4
   },
   {
     "name": "Baní",
     "slug": "bani",
     "lat": 18.2786,
     "lng": -70.3311,
-    "shopCount": 4
+    "shop_count": 4
   },
   {
     "name": "Bayahíbe",
     "slug": "bayahibe",
     "lat": 18.3636,
     "lng": -68.8363,
-    "shopCount": 4
+    "shop_count": 4
   },
   {
     "name": "Bávaro",
     "slug": "bavaro",
     "lat": 18.6727,
     "lng": -68.4107,
-    "shopCount": 4
+    "shop_count": 4
   },
   {
     "name": "Salcedo",
     "slug": "salcedo",
     "lat": 19.3769,
     "lng": -70.4179,
-    "shopCount": 4
+    "shop_count": 4
   },
   {
     "name": "Samaná",
     "slug": "samana",
     "lat": 19.2041,
     "lng": -69.3335,
-    "shopCount": 4
+    "shop_count": 4
   },
   {
     "name": "Sosúa",
     "slug": "sosua",
     "lat": 19.7639,
     "lng": -70.5157,
-    "shopCount": 4
+    "shop_count": 4
   },
   {
     "name": "Boca Chica",
     "slug": "boca-chica",
     "lat": 18.4583,
     "lng": -69.6075,
-    "shopCount": 3
+    "shop_count": 3
   },
   {
     "name": "Las Terrenas",
     "slug": "las-terrenas",
     "lat": 19.3191,
     "lng": -69.5493,
-    "shopCount": 3
+    "shop_count": 3
   },
   {
     "name": "Monción",
     "slug": "moncion",
     "lat": 19.4127,
     "lng": -71.1553,
-    "shopCount": 3
+    "shop_count": 3
   },
   {
     "name": "Pantoja",
     "slug": "pantoja",
     "lat": 18.5237,
     "lng": -69.9986,
-    "shopCount": 3
+    "shop_count": 3
   },
   {
     "name": "Villa Altagracia",
     "slug": "villa-altagracia",
     "lat": 18.6749,
     "lng": -70.1757,
-    "shopCount": 3
+    "shop_count": 3
   },
   {
     "name": "Andrés",
     "slug": "andres",
     "lat": 18.4475,
     "lng": -69.6346,
-    "shopCount": 2
+    "shop_count": 2
   },
   {
     "name": "Cap Cana",
     "slug": "cap-cana",
     "lat": 18.5038,
     "lng": -68.3725,
-    "shopCount": 2
+    "shop_count": 2
   },
   {
     "name": "Constanza",
     "slug": "constanza",
     "lat": 18.908,
     "lng": -70.7427,
-    "shopCount": 2
+    "shop_count": 2
   },
   {
     "name": "Hato Nuevo",
     "slug": "hato-nuevo",
     "lat": 18.4843,
     "lng": -70.0192,
-    "shopCount": 2
+    "shop_count": 2
   },
   {
     "name": "La Caleta",
     "slug": "la-caleta",
     "lat": 18.4646,
     "lng": -69.6765,
-    "shopCount": 2
+    "shop_count": 2
   },
   {
     "name": "La Guáyiga",
     "slug": "la-guayiga",
     "lat": 18.545,
     "lng": -70.0413,
-    "shopCount": 2
+    "shop_count": 2
   },
   {
     "name": "Monte Cristi",
     "slug": "monte-cristi",
     "lat": 19.793,
     "lng": -71.659,
-    "shopCount": 2
+    "shop_count": 2
   },
   {
     "name": "Piedra Blanca",
     "slug": "piedra-blanca",
     "lat": 18.8433,
     "lng": -70.3133,
-    "shopCount": 2
+    "shop_count": 2
   },
   {
     "name": "San José de las Matas",
     "slug": "san-jose-de-las-matas",
     "lat": 19.3396,
     "lng": -70.939,
-    "shopCount": 2
+    "shop_count": 2
   },
   {
     "name": "Villa Hermosa",
     "slug": "villa-hermosa",
     "lat": 18.4495,
     "lng": -69.0176,
-    "shopCount": 2
+    "shop_count": 2
   },
   {
     "name": "Baitoa",
     "slug": "baitoa",
     "lat": 19.3266,
     "lng": -70.7051,
-    "shopCount": 1
+    "shop_count": 1
   },
   {
     "name": "Bayaguana",
     "slug": "bayaguana",
     "lat": 18.7562,
     "lng": -69.6323,
-    "shopCount": 1
+    "shop_count": 1
   },
   {
     "name": "Buen Hombre",
     "slug": "buen-hombre",
     "lat": 19.8562,
     "lng": -71.4084,
-    "shopCount": 1
+    "shop_count": 1
   },
   {
     "name": "Cabarete",
     "slug": "cabarete",
     "lat": 19.758,
     "lng": -70.418,
-    "shopCount": 1
+    "shop_count": 1
   },
   {
     "name": "Capilla",
     "slug": "capilla",
     "lat": 19.5052,
     "lng": -70.8642,
-    "shopCount": 1
+    "shop_count": 1
   },
   {
     "name": "Cotuí",
     "slug": "cotui",
     "lat": 19.0465,
     "lng": -70.1457,
-    "shopCount": 1
+    "shop_count": 1
   },
   {
     "name": "Cruce de Guayacanes",
     "slug": "cruce-de-guayacanes",
     "lat": 19.6461,
     "lng": -71.0622,
-    "shopCount": 1
+    "shop_count": 1
   },
   {
     "name": "El Caimito",
     "slug": "el-caimito",
     "lat": 19.1743,
     "lng": -70.2873,
-    "shopCount": 1
+    "shop_count": 1
   },
   {
     "name": "El Llano",
     "slug": "el-llano",
     "lat": 18.2593,
     "lng": -70.3433,
-    "shopCount": 1
+    "shop_count": 1
   },
   {
     "name": "El Pino",
     "slug": "el-pino",
     "lat": 19.1438,
     "lng": -70.4621,
-    "shopCount": 1
+    "shop_count": 1
   },
   {
     "name": "El Prado",
     "slug": "el-prado",
     "lat": 18.7355,
     "lng": -69.8566,
-    "shopCount": 1
+    "shop_count": 1
   },
   {
     "name": "El Valle",
     "slug": "el-valle",
     "lat": 18.9752,
     "lng": -69.3774,
-    "shopCount": 1
+    "shop_count": 1
   },
   {
     "name": "Esperanza",
     "slug": "esperanza",
     "lat": 19.5922,
     "lng": -70.9884,
-    "shopCount": 1
+    "shop_count": 1
   },
   {
     "name": "Estebania",
     "slug": "estebania",
     "lat": 18.4607,
     "lng": -70.6419,
-    "shopCount": 1
+    "shop_count": 1
   },
   {
     "name": "Fantino",
     "slug": "fantino",
     "lat": 19.1239,
     "lng": -70.3016,
-    "shopCount": 1
+    "shop_count": 1
   },
   {
     "name": "Guaymate",
     "slug": "guaymate",
     "lat": 18.5885,
     "lng": -68.9776,
-    "shopCount": 1
+    "shop_count": 1
   },
   {
     "name": "Hato Mayor del Rey",
     "slug": "hato-mayor-del-rey",
     "lat": 18.765,
     "lng": -69.2611,
-    "shopCount": 1
+    "shop_count": 1
   },
   {
     "name": "Jaibón de Pueblo Nuevo",
     "slug": "jaibon-de-pueblo-nuevo",
     "lat": 19.5824,
     "lng": -71.1673,
-    "shopCount": 1
+    "shop_count": 1
   },
   {
     "name": "Jicomé de Moncion",
     "slug": "jicome-de-moncion",
     "lat": 19.4033,
     "lng": -71.1484,
-    "shopCount": 1
+    "shop_count": 1
   },
   {
     "name": "Juan Dolio",
     "slug": "juan-dolio",
     "lat": 18.4293,
     "lng": -69.3999,
-    "shopCount": 1
+    "shop_count": 1
   },
   {
     "name": "Juan Lopez",
     "slug": "juan-lopez",
     "lat": 19.4302,
     "lng": -70.501,
-    "shopCount": 1
+    "shop_count": 1
   },
   {
     "name": "La Descubierta",
     "slug": "la-descubierta",
     "lat": 18.4683,
     "lng": -69.95,
-    "shopCount": 1
+    "shop_count": 1
   },
   {
     "name": "La Mata",
     "slug": "la-mata",
     "lat": 19.0934,
     "lng": -70.1588,
-    "shopCount": 1
+    "shop_count": 1
   },
   {
     "name": "La Torre",
     "slug": "la-torre",
     "lat": 19.3452,
     "lng": -70.6037,
-    "shopCount": 1
+    "shop_count": 1
   },
   {
     "name": "Las Matas de Santa Cruz",
     "slug": "las-matas-de-santa-cruz",
     "lat": 19.667,
     "lng": -71.5061,
-    "shopCount": 1
+    "shop_count": 1
   },
   {
     "name": "Maimón",
     "slug": "maimon",
     "lat": 19.8218,
     "lng": -70.7767,
-    "shopCount": 1
+    "shop_count": 1
   },
   {
     "name": "Miches",
     "slug": "miches",
     "lat": 18.9844,
     "lng": -69.0494,
-    "shopCount": 1
+    "shop_count": 1
   },
   {
     "name": "Nagua",
     "slug": "nagua",
     "lat": 19.378,
     "lng": -69.8511,
-    "shopCount": 1
+    "shop_count": 1
   },
   {
     "name": "Neiba",
     "slug": "neiba",
     "lat": 18.4792,
     "lng": -71.4212,
-    "shopCount": 1
+    "shop_count": 1
   },
   {
     "name": "Punta Cana",
     "slug": "punta-cana",
     "lat": 18.6591,
     "lng": -68.3736,
-    "shopCount": 1
+    "shop_count": 1
   },
   {
     "name": "Quita Coraza",
     "slug": "quita-coraza",
     "lat": 18.4732,
     "lng": -71.0623,
-    "shopCount": 1
+    "shop_count": 1
   },
   {
     "name": "Río Verde Arriba",
     "slug": "rio-verde-arriba",
     "lat": 19.3201,
     "lng": -70.5843,
-    "shopCount": 1
+    "shop_count": 1
   },
   {
     "name": "Sabana Buey",
     "slug": "sabana-buey",
     "lat": 18.2738,
     "lng": -70.5231,
-    "shopCount": 1
+    "shop_count": 1
   },
   {
     "name": "Sabana Grande de Boyá",
     "slug": "sabana-grande-de-boya",
     "lat": 18.9449,
     "lng": -69.7879,
-    "shopCount": 1
+    "shop_count": 1
   },
   {
     "name": "Sabana Larga",
     "slug": "sabana-larga",
     "lat": 18.5848,
     "lng": -70.4986,
-    "shopCount": 1
+    "shop_count": 1
   },
   {
     "name": "Sabana de la Mar",
     "slug": "sabana-de-la-mar",
     "lat": 19.0633,
     "lng": -69.386,
-    "shopCount": 1
+    "shop_count": 1
   },
   {
     "name": "San Gregorio de Nigua",
     "slug": "san-gregorio-de-nigua",
     "lat": 18.3854,
     "lng": -70.0514,
-    "shopCount": 1
+    "shop_count": 1
   },
   {
     "name": "San José de Ocoa",
     "slug": "san-jose-de-ocoa",
     "lat": 18.5428,
     "lng": -70.5052,
-    "shopCount": 1
+    "shop_count": 1
   },
   {
     "name": "San Víctor",
     "slug": "san-victor",
     "lat": 19.4561,
     "lng": -70.5407,
-    "shopCount": 1
+    "shop_count": 1
   },
   {
     "name": "Tenares",
     "slug": "tenares",
     "lat": 19.5149,
     "lng": -70.2904,
-    "shopCount": 1
+    "shop_count": 1
   },
   {
     "name": "Villa González",
     "slug": "villa-gonzalez",
     "lat": 19.5382,
     "lng": -70.7875,
-    "shopCount": 1
+    "shop_count": 1
   },
   {
     "name": "Villa Sinda",
     "slug": "villa-sinda",
     "lat": 19.7188,
     "lng": -71.398,
-    "shopCount": 1
+    "shop_count": 1
   },
   {
     "name": "Villa Vásquez",
     "slug": "villa-vasquez",
     "lat": 19.7415,
     "lng": -71.4481,
-    "shopCount": 1
+    "shop_count": 1
   },
   {
     "name": "Yamasá",
     "slug": "yamasa",
     "lat": 18.7695,
     "lng": -70.0248,
-    "shopCount": 1
+    "shop_count": 1
   }
 ]

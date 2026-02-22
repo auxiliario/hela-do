@@ -8,7 +8,11 @@ interface CityCardProps {
 }
 
 const cityEmojis: Record<string, string> = {
-  "santo-domingo": "🏛️",
+  "santo-domingo-dn": "🏛️",
+  "santo-domingo-este": "🌇",
+  "santo-domingo-norte": "🏘️",
+  "santo-domingo-oeste": "🌆",
+  "zona-colonial": "🏰",
   santiago: "⛪",
   "puerto-plata": "🏖️",
   jarabacoa: "🏔️",
@@ -31,6 +35,13 @@ const cityEmojis: Record<string, string> = {
   cabarete: "🪁",
   bayahibe: "🐠",
   "boca-chica": "🏝️",
+  bavaro: "🌊",
+  "punta-cana": "🌴",
+  "cap-cana": "💎",
+  "juan-dolio": "🏖️",
+  "valverde-mao": "🌾",
+  "monte-cristi": "🏜️",
+  "san-juan-de-la-maguana": "🌄",
 };
 
 export function CityCard({ name, slug, shopCount, index }: CityCardProps) {
